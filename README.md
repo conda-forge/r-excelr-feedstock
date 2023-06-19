@@ -1,11 +1,11 @@
-About r-excelr
-==============
+About r-excelr-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-excelr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Swechhya/excelR
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-excelr-feedstock/blob/main/LICENSE.txt)
 
 Summary: An R interface to 'jExcel' library to create web-based interactive tables and spreadsheets compatible with 'Excel' or any other spreadsheet software.
 
