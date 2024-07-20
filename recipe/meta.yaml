@@ -1,6 +1,5 @@
 {% set version = '0.4.0' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-excelr
@@ -13,8 +12,7 @@ source:
   sha256: 80671840972057e801f5ae6a574d9de42c75293e5bca7760de65cb4f8ad764dd
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
